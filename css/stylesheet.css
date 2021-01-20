@@ -1,0 +1,138 @@
+
+
+body{
+  /*padding:15px;
+  margin:5%;*/
+  font-size: 125%;
+height: 1000%;
+margin-left: 3.5%;
+ 
+  }
+  header{
+    
+  background: #d3d3d3;
+  margin-top: 0%;
+  margin-left: 5%;
+  /* padding:15px;
+  margin:0.5%;*/
+    background:  url("../images/image1.jpg")  no-repeat  ;
+    background-color:#663366;
+    /*height:2000%;*/
+    background-size: 100% 100%;
+    min-height: 100%;
+    background-position: absolute;
+    height:auto;
+    width: auto;
+    max-width: 95%;
+    height:300px;
+  /*  min-height:  1800%  no farak;*/
+   /* background-size:cover;*/
+   margin:0%;
+   /*padding: -15%;*/ 
+   padding bottom : 5%;
+  /* margin-bottom: 5%;*/
+   border-bottom: 5%;
+  padding-left: 1%;
+ 
+
+}	
+
+h1{
+	color:#ffffff;
+	text-transform: uppercase;
+  text-align: center;
+  font-size: 400%;
+  margin-bottom: 15%;
+}
+nav a{
+  text-decoration: none;
+
+  text-align: center;
+  color:#000000;
+  background: #0000FF;
+  display: inline-block;
+  width: 15%;
+  height: 30px;
+ margin-left: 0.5%%;
+  margin-right: 1%;
+border-radius: 8px;
+background-color: #ffffff;
+
+  opacity: 0.6;
+  
+
+
+}
+a:hover{  
+    background: #B3B3B3;
+    color: #0006CC;
+}
+
+/*When user tabs to this link*/
+a:focus{ 
+    background: #B3B3B3;
+    color: #0006CC;
+}
+
+
+
+.active{ 
+    background-color:  #ffffff;
+    color:  #000099;
+    opacity: 0.9;
+}
+
+h2{
+	color:#000000;
+
+}
+
+
+aside{
+  background-color:   #666633;
+  width: 20%;
+  float: left;
+  margin-left: :5%;
+  display: inline-block;
+  height: 500%;
+}
+
+.left{
+  height: 1200%;
+}
+img{
+  display: block;
+  
+  float: left;
+  width: 90%;
+ 
+ border: 3px solid black;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ margin-left: 3%;
+ height: 1200%;
+}
+section{
+  background-color: #ffffff;
+  width:70%;
+  
+  display:inline-block;
+  
+  margin-left: 0%;
+  text-align: left;
+  height: 1000%;
+ 
+}
+/*.right{
+   font-size: =1000%;
+}*/
+p.impact {
+  font-family: Impact, Charcoal, arial;
+  font-size: 80%;
+}
+nav a{
+  margin-bottom: 10%;
+}
+a.navbrand{
+  background-color: pink;
+}
